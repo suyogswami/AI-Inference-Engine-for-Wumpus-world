@@ -1,5 +1,4 @@
 Name: Suyog Siddheshwar Swami
-UTA ID: 1001119101
 Programming Langauge: Python 2.4
 How to run the code: 	Copy all the unzipped folder to omega.
 			On the comand line in omega type the following command:
