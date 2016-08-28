@@ -2,9 +2,10 @@ Name: Suyog Siddheshwar Swami
 
 Programming Langauge: Python 2.4
 
-How to run the code: 	Copy all the unzipped folder to omega.
-			On the comand line in omega type the following command:
-			pyhton check_true_false_suyogs.py a.txt b.txt c.txt and hit enter
+How to run the code: 	
+Copy all the unzipped folder to omega.
+On the comand line in omega type the following command:
+pyhton check_true_false_suyogs.py a.txt b.txt c.txt and hit enter
 			
 The file a.txt contain the KB for the wumpus rules.
 The file b.txt contain the additional KB containing 48 additonal rules
